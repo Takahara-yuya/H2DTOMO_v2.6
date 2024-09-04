@@ -1,0 +1,6 @@
+TRAVELTIME MODE: 0
+FORWARD OR INVERSION: INVERSION
+FORWARD SETTING FILE: ./Settings/Tomo2D/FsmSettings
+INVERSION SETTING FILE: ./Settings/Tomo2D/InvSettings
+MESH STEEING FILE: ./Settings/Tomo2D/MeshSettings
+OBSERVED DATA FILE: ./Data/TomoData/srs_fwd.dat
